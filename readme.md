@@ -566,21 +566,6 @@ toralizer/
 │
 ├── scripts/
 │   ├── toralize.sh
-│   └── make_install_all.sh
-│
-├── docs/
-│   ├── README.md
-│   └── INSTALL.md
-│
-├── bin/
-│   └── toralizer.so
-│
-├── examples/
-│   ├── basic_usage.sh
-│   └── advanced_usage.sh
-│
-└── tests/
-    └── test_suite.sh
 ```
 
 ---
